@@ -6,7 +6,7 @@ This repository contains a collection of Java programming projects developed to 
 
 ## Projects
 
-### 1. rename_it
+### 1. Java-image-scrolling-website
 
 ---
 
